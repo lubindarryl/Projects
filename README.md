@@ -4,7 +4,7 @@ This repository consists of the Python and JavaScript past and present projects 
 
 # Publication
 
-I am in the process of publishing the card game (Egyptian Ratslap) that I worked on the summer of 2023 to the online game distribution site call Steam.
+I have published my game onto Steam called Egyptian Ratslap: [Link to Game!](https://store.steampowered.com/app/2553440/Egyptian_Ratslap__Card_Game/)
 
 # Background
 
