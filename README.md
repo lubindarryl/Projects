@@ -6,7 +6,7 @@ This repository consists of past and present projects in Python and JavaScript t
 
 # Publication
 
-I have published my game on Steam called Egyptian Ratslap: [Link to Game!](https://store.steampowered.com/app/2553440/Egyptian_Ratslap__Card_Game/)
+I have published a game on Steam called Egyptian Ratslap: [Link to Game!](https://store.steampowered.com/app/2553440/Egyptian_Ratslap__Card_Game/)
 
 # Background
 
