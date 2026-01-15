@@ -1,6 +1,6 @@
 # Projects Repository
 
-This repository consists of past and present projects in Python and JavaScript that I have worked on.
+This repository consists of past and present projects in Python, JavaScript, and other languages that I have worked on.
 
 <img src="Media/screen-recording-gif.gif">
 
